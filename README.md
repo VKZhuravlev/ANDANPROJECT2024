@@ -4,4 +4,7 @@
 
 ## Описание
 
+
+https://github.com/VKZhuravlev/ANDANPROJECT2024/assets/169156667/21409880-2d21-4933-a4da-e7d107c70ced
+
 тут будет что-то интересное
