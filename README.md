@@ -26,7 +26,7 @@
 
 ---
 
-## Шаг 4: Визуализация
+## Шаг 4: [Визуализация](https://github.com/VKZhuravlev/ANDANPROJECT2024/blob/main/Визуализация.ipynb)
 
 *Статус: в процессе*
 
