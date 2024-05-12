@@ -1,5 +1,9 @@
 # Проект по Анализу данных
 
+<div align="center">
+    <img src="![image](https://github.com/VKZhuravlev/ANDANPROJECT2024/assets/169156667/5bb204e2-4481-4475-940f-cca79e89898e)" alt="">
+</div>
+
 Намутили его вот эти персонажи: [Аксюков Дмитрий](https://t.me/AxDm4), [Журавлев Владимир](https://t.me/zhuravlevvk), [Сокольцов Михаил](https://t.me/Socolec)
 
 ---
