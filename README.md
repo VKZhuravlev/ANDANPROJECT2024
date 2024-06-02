@@ -12,7 +12,7 @@
 
 ---
 
-## Шаг 2: [Сбор данных](https://github.com/VKZhuravlev/ANDANPROJECT2024/blob/main/Сбор%20данных.ipynb)
+## Шаг 2: [Сбор данных](https://github.com/VKZhuravlev/ANDANPROJECT2024/blob/main/2.%20Сбор%20данных.ipynb)
 
 На этом этапе вы можете ознкомиться с тем, как мы собирали данные.
 
